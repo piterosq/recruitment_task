@@ -1,4 +1,4 @@
-# recruitment_task [![Build Status](https://travis-ci.com/piterosq/zadanie.svg?branch=master)](https://travis-ci.com/piterosq/zadanie)
+# recruitment_task [![Build Status](https://travis-ci.com/piterosq/recruitment_task.svg?branch=master)](https://travis-ci.com/piterosq/recruitment_task)
 
 ## Description
 Microservice realising number classification based on MNIST dataset.
