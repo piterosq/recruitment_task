@@ -1,0 +1,16 @@
+sudo: required
+env:
+  #matrix:
+  - OS_TYPE=centos OS_VERSION=8 ANSIBLE_VERSION=1.9.2
+
+language: python
+
+services:
+  - docker
+
+before_install:
+#  - pip3 install -r requirements.txt
+
+script:
+#- python test_sample.py
+- source ./run_sample.sh
